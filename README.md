@@ -1,4 +1,4 @@
-# transformer-resnet-cifar100
+# transformer-cifar100
 
 Vision Transformer训练方法：
 Train :
@@ -20,6 +20,7 @@ test：
 ```bash
 python test.py -net resnet50 -weights 导入的模型的位置 -gpu
 ``` -->
+
 
 可下载训练好的模型进行测试
 模型下载地址：https://drive.google.com/drive/folders/1GTRAt-JTgsFZj1HL6C8RqX1ksItvAYTp

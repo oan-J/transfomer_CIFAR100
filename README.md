@@ -1,11 +1,9 @@
 # transformer-cifar100
 
-Vision Transformer训练方法：
 Train :
 ```bash
 python train.py -c configs/default.yaml --name 模型名字
 ```
-测试方法
 Test :
 ```bash
 python test.py -c configs/defaul.yaml --name 模型名字 -p 导入的模型的位置

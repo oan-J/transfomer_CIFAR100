@@ -19,7 +19,7 @@ test：
 python test.py -net resnet50 -weights 导入的模型的位置 -gpu
 ``` -->
 
-You can find .event files in 'log/model' dir.
+You can find .event files in 'logs/model' dir.
 
 可下载训练好的模型进行测试
 模型下载地址：https://drive.google.com/drive/folders/1GTRAt-JTgsFZj1HL6C8RqX1ksItvAYTp
